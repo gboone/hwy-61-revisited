@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol":"cafe",
+        "marker-symbol": "cafe",
         "name": "Tobie's"
       },
       "geometry": {
@@ -12,6 +12,20 @@
         "coordinates": [
           -92.93035626411437,
           46.01018961768812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol":"beer",
+        "name": "Canal Park Brewery"  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09396839141846,
+          46.7849682908194
         ]
       }
     }
