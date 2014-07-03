@@ -47,13 +47,27 @@
       "type": "Feature",
       "properties": {
         "University of Minnesota: Duluth": "",
-        "marker-symbol": "college"
+        "marker-symbol":"college"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -92.08538532257079,
           46.820502331135856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Duluth International Airport (DLH)":"",
+        "marker-symbol":"airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.20245838165282,
+          46.83782570271718
         ]
       }
     }
