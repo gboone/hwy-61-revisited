@@ -1,20 +1,19 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-		    "type": "Feature",
-		    "geometry": {
-				"type": "Point",
-			    "coordinates": [
-			        -92.930426,
-				46.010357
-			    ]
-		    },
-		    "properties": {
-			    "marker-symbol": "cafe",
-			    "name": "Tobie's",
-			    "address": "404 Fire Monument Rd, Hinckley, MN 55037",
-		    }
-		},
-	]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-type": "cafe"
+        "name": "Tobie's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.93035626411437,
+          46.01018961768812
+        ]
+      }
+    }
+  ]
 }
