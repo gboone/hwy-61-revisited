@@ -18,14 +18,42 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol":"beer",
-        "name": "Canal Park Brewery"  
+        "marker-symbol": "beer",
+        "name": "Canal Park Brewery"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.09396839141846,
-          46.7849682908194
+          -92.094333,
+          46.784935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Duluth Pack Store": "Canal Park",
+        "marker-symbol": "clothing-store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.095082,
+          46.783164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "University of Minnesota: Duluth": "",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.08538532257079,
+          46.820502331135856
         ]
       }
     }
