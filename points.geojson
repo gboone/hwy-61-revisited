@@ -83,6 +83,90 @@
           44.88287718130328
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grand Superior Lodge": "",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.50328159332275,
+          47.12046090700016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gooseberry Falls State Park": "",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.46978616714476,
+          47.13952648850025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Split Rock Lighthouse State Park": "",
+        "marker-symbol": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.40092849731445,
+          47.1823334315825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tettegouche State Park": "",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.26291275024414,
+          47.34301034806174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Two Harbors Lighthouse": "",
+        "marker-symbol": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.66335582733154,
+          47.013678529965006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Rustic Inn": "",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.51029825210571,
+          47.11860653867053
+        ]
+      }
     }
   ]
 }
