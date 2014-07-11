@@ -46,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "University of Minnesota: Duluth": ""
+        "University of Minnesota: Duluth": "",
+        "marker-symbol": "college"
       },
       "geometry": {
         "type": "Point",
@@ -165,6 +166,20 @@
         "coordinates": [
           -91.51029825210571,
           47.11860653867053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Fitger's Brewhouse" : "",
+        "marker-symbol": "beer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09075999999999,
+          46.7920019
         ]
       }
     }
