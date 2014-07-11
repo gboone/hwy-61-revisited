@@ -182,6 +182,20 @@
           46.7920019
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Superior, WI": "Friendly twin port to the East",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10407959999999,
+          46.7207737
+        ]
+      }
     }
   ]
 }
