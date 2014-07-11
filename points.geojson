@@ -196,6 +196,34 @@
           46.7207737
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Castle Danger Brewing": "",
+        "marker-symbol": "beer"
+      },
+      "geometry": {
+        "type" : "Point",
+        "coordinates": [
+          -91.6728918,
+          47.0197477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Hibbing, MN": "Bob Dylan was born here",
+        "marker-symbol":"town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9376887,
+          47.42715459999999
+        ]
+      }
     }
   ]
 }
