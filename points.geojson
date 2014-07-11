@@ -224,6 +224,20 @@
           47.42715459999999
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bent Paddle Brewery":"",
+        "marker-symbol": "beer"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+          -92.1217484,
+          46.7680425
+        ]
+      }
     }
   ]
 }
