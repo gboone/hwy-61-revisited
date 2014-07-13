@@ -172,6 +172,30 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -112.0740373,
+                        33.4483771
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-phoenix",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "title": "Phoenix, AZ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -93.657760620117188,
                         41.533896643277181
                     ],
