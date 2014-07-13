@@ -1,0 +1,906 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -77.039909362792969,
+                        38.850670796293471
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkopx1b0",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 10,
+                "title": "Washington, DC"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -73.783836364746094,
+                        40.646001096980207
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkot73k1",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "title": "New York City"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -89.337043762207031,
+                        43.13681923574898
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkoxvrp2",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 14,
+                "title": "Madison & Sun Prairie, WI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -93.218994140625,
+                        44.873389196779264
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkp39t83",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 20,
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.932861328125,
+                        47.509432494963328
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkp7ta24",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "title": ""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.113105773925781,
+                        44.54020177317944
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkpgqnt5",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "title": "Redwood Falls, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -93.999195098876953,
+                        44.163612470091358
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkpknve6",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "title": "Mankato, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -93.657760620117188,
+                        41.533896643277181
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkpnfj57",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "title": "Des Moines, IA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -92.392959594726562,
+                        42.55510352893436
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkpqjkq8",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 5,
+                "title": "Waterloo, IA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -92.483811378479004,
+                        42.729928569306068
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkpugwl9",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "title": "Waverly, IA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -104.99685287475586,
+                        39.745474132028143
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkpx1zaa",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "title": "Denver, CO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.29602813720703,
+                        47.442717797253188
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkq1kv7b",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "title": "Seattle, WA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.21002578735352,
+                        37.715263433782589
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkq4f3xc",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "title": "Oakland, CA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.50328159332275,
+                    47.12046090700016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkq5ngbd",
+                "marker-color": "#1087bf",
+                "marker-size": "large",
+                "marker-symbol": "star-stroked",
+                "title": "Castle Danger, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -116.22453689575195,
+                        43.563725268265443
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkq880ue",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 5,
+                "title": "Boisie, ID"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.564132690429688,
+                        39.081573187524079
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqez4qf",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "title": "Kansas City, MO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.667427062988281,
+                        30.201075157700025
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqlm5hg",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 1,
+                "title": "Austin, TX"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -71.018800735473619,
+                        42.364949413922389
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqouzdh",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "title": "Boston, MA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.92704200744629,
+                        38.262243381840804
+                    ],
+                    [
+                        -91.50328159332275,
+                        47.12046090700016
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqrj27i",
+                "stroke": "#1087bf",
+                "stroke-opacity": 1,
+                "stroke-width": 3,
+                "title": "Travis AFB, CA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.92755699157713,
+                    38.262108595842676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqvdz2j",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Travis AFB, CA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.21019744873047,
+                    37.715874506742729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqwxrlk",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Oakland, CA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.29654312133788,
+                    47.442833896344439
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqxn5pl",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Seattle, WA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.41420936584473,
+                    43.401430661798344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqze5bm",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Mountain Home, ID"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.22488021850587,
+                    43.563476493226595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkqzwzpn",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Boisie, ID"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.9970245361328,
+                    39.74573810975803
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr0yduo",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Denver, CO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.667083740234375,
+                    30.200333349994061
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr3l49p",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Austin, TX"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.563789367675781,
+                    39.084504670750619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr4ahlq",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Kansas City, MO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.658103942871094,
+                    41.532483133832486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr6015r",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Des Moines, IA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.483854293823242,
+                    42.729928569306068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr77n9s",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Waverly, IA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.392787933349609,
+                    42.554471273487039
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr7on4t",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Waterloo, IA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.384164810180664,
+                    43.074781494484697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr8v7vu",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Madison, WI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.212760925292969,
+                    43.184651842497978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkr9fwjv",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Sun Prairie, WI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.999195098876953,
+                    44.162750470903013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkraj6bw",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Mankato, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.113620758056641,
+                    44.539712358715178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrbuu5x",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Redwood Falls"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.869260787963867,
+                    47.484264899421746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrdkjsy",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Bemidji, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.286972045898423,
+                    44.767699382407805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrg8e8z",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Burnsville, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.269805908203125,
+                    44.977428117304974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrghe910",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Minneapolis, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.090591430664062,
+                    44.948763302981853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrh7f711",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Saint Paul, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.811813354492173,
+                    45.055576184294502
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrhiks12",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Stillwater, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.994117736816406,
+                    45.160011185829944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkri2kh13",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Hugo, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.291778564453125,
+                    45.11956832618656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrj7tk14",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Coon Rapids, MN"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.010726928710938,
+                    38.889830315871485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrl9i815",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "city",
+                "title": "Washington, DC"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.969316482543945,
+                    40.660977916004164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrmq2b16",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Brooklyn, NY"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.098215579986572,
+                    42.373359600013664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-hxkrpe3u17",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Somerville, MA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "id": "gboone.map-d8xpat3h",
+    "type": "FeatureCollection"
+}
