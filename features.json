@@ -621,6 +621,24 @@
         {
             "geometry": {
                 "coordinates": [
+                    -112.0740373,
+                    33.4483771
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "id": "marker-phoenix-point",
+                "marker-color": "#1087bf",
+                "marker-size": "medium",
+                "marker-symbol": "town",
+                "title": "Phoenix, AZ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -93.658103942871094,
                     41.532483133832486
                 ],
